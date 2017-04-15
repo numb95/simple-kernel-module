@@ -1,0 +1,1 @@
+cmd_/home/numb/projects/simple-kernel-module/simple-dmesg/main.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/numb/projects/simple-kernel-module/simple-dmesg/main.ko /home/numb/projects/simple-kernel-module/simple-dmesg/main.o /home/numb/projects/simple-kernel-module/simple-dmesg/main.mod.o
